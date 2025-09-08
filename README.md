@@ -1,4 +1,4 @@
-# bus_tracker
+# Bus Tracker
 
 A new Flutter project.
 
@@ -27,14 +27,13 @@ This is not a pre-built system or commercial product — we designed, developed,
 
 "The best part? It’s highly affordable and scalable, making it ideal not just for colleges, but also for schools, junior colleges, and coaching centers looking to implement a smart transport solution on a low budget."
 
-This was a complete team project, and I’m proud of the collaboration and effort we put into every step.
 
-### Screenshot
-![image alt](https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789518.jpeg)
-![image alt](https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789464.jpeg)
-![image alt](https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957788900.jpeg)
-
-
+## Screenshot
+<p align = “center”>
+  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789518.jpeg" width="300" height="500" />
+  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789464.jpeg" width="300" height="500" />
+  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957788900.jpeg" width="300" height="500" />
+</p>
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
