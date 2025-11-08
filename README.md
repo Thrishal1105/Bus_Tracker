@@ -29,9 +29,9 @@
 
 ## Screenshot
 <p align = “center”>
-  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789518.jpeg" width="300" height="500" />
-  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789464.jpeg" width="300" height="500" />
-  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957788900.jpeg" width="300" height="500" />
+  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789518.jpeg" width="300" height="450" />
+  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957789464.jpeg" width="200" height="450" />
+  <img src="https://github.com/Thrishal1105/Bus_Tracker/blob/3601ceeea1fb6c32ba615e4deb1e0e45bc298ef1/images/1750957788900.jpeg" width="200" height="450" />
 </p>
 
  ## 🌟 Why This Project Stands Out
